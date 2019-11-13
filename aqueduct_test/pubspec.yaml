@@ -13,3 +13,4 @@ dependencies:
   matcher: '>=0.12.3 <0.14.0'
   aqueduct:
     git: git://github.com/gokr/aqueduct.git
+    path: aqueduct
